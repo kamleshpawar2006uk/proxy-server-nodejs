@@ -1,0 +1,17 @@
+{
+    "name": "my-api-proxy",
+    "version": "1.0.0",
+    "description": "API Proxy for Websocket requests",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "http-proxy": "^1.18.1",
+      "ws": "^7.4.6"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
